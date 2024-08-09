@@ -23,7 +23,7 @@ npm run dev
 
 4. Access the application
 Frontend: Open http://localhost:5173 in your browser.
-Backend API: Runs on http://localhost:5000. 
+Backend API: Runs on http://localhost:5555. 
 
 ##Contact
 For any questions or feedback, please reach out to Your Name.
