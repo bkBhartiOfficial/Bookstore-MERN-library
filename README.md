@@ -8,7 +8,7 @@ This is a full-stack BookStore application built using the MERN stack (MongoDB, 
 Node.js and npm installed on your local machine.
 
 1. Clone the repository
-git clone <https://github.com/bkBhartiOfficial/Bookstore-app-with-MERN>
+git clone <https://github.com/bkBhartiOfficial/Bookstore-MERN-library>
 cd BookStore-MERN 
 
 (or copy the contents manually to your local device)
@@ -29,4 +29,4 @@ Backend API: Runs on http://localhost:5555.
 For any questions or feedback, please reach out to Your Name.
 
 ##GitHub Repository
-[Link](https://github.com/bkBhartiOfficial/Bookstore-app-with-MERN)
+[Link](https://github.com/bkBhartiOfficial/Bookstore-MERN-library)
